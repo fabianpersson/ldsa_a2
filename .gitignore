@@ -1,3 +1,5 @@
 *.sv
 *.en
 *.tgz
+*.info
+*.log
