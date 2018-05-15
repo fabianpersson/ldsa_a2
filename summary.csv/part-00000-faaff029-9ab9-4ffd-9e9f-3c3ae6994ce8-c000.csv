@@ -1,0 +1,9 @@
+summary,EmployerName,AbsDiffMeanHourlyPercent
+count,10503,10503
+mean,,16.144073121965114
+stddev,,13.201381225063585
+min,"\"Bryanston School\",Incorporated",0.0
+25%,,6.5
+50%,,14.0
+75%,,23.1
+max,ward hadaway,400.0
